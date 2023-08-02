@@ -1,4 +1,4 @@
-[![MasterHead]("https://codecoffeeproject.com/assets/images/beverage-break-breakfast-414630.jpg")]
+[![MasterHead]("https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg")]
 <h1 align="center">Hi 👋, I'm Ayush Arora</h1>
 <h3 align="center">A passionate programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
