@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusharora21003&label=Profile%20views&color=0e75b6&style=flat" alt="ayusharora21003" /> </p>
 
+- 💪I'm interested in **Competitive programming and Web development**
 - 🌱 I’m currently learning **React.js**
-
 - 📫 How to reach me **ayusharora21003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
